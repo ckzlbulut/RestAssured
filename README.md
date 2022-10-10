@@ -1,3 +1,3 @@
 
 ## RestAssured
-⚠️ project is only for Jenkins test.
+⚠️ This project is only for Jenkins test.
